@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-POO_3D2_05_20",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
